@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ricardo Santos
+# 👨🏻‍💻Ricardo Santos
 
 **`Desenvolvedor de Software`**
 
