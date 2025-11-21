@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Larissa Ricardo Santos, tenho 34 anos e sou natural de São paulo Capital. Sou um desenvolvedor entusiasta em Ciências da Computação focado em construir soluções tecnológicas completas. Tenho experiência em criação de interfaces dinâmicas e funcionais para a Web (HTML5, CSS3, JS) e no desenvolvimento de aplicações nativas para dispositivos móveis usando Java e Kotlin. Minhas habilidades de programação se estendem à lógica de sistemas (Linguagem C). O que me move é a capacidade de transformar requisitos em código limpo e eficiente. Todos os meus projetos são gerenciados com Git/GitHub, garantindo um fluxo de trabalho profissional e rastreável..
+Me chamo Ricardo Santos, tenho 34 anos e sou natural de São paulo Capital. Sou um desenvolvedor entusiasta em Ciências da Computação focado em construir soluções tecnológicas completas. Tenho experiência em criação de interfaces dinâmicas e funcionais para a Web (HTML5, CSS3, JS) e no desenvolvimento de aplicações nativas para dispositivos móveis usando Java e Kotlin. Minhas habilidades de programação se estendem à lógica de sistemas (Linguagem C). O que me move é a capacidade de transformar requisitos em código limpo e eficiente. Todos os meus projetos são gerenciados com Git/GitHub, garantindo um fluxo de trabalho profissional e rastreável..
 
 
 ---
