@@ -7,7 +7,7 @@ Me chamo Ricardo Santos, tenho 34 anos e sou natural de São paulo Capital. Sou 
 
 ---
 
-### Meu Portifólio: https://portifolioricardovieirads.netlify.app
+### Meu Portifólio: https://portifolio.ricardosantosdev.tech/
 ---
 ### 🤖 Linguagens e Tecnologias
 
