@@ -1,6 +1,6 @@
 # 👨🏻‍💻Ricardo Santos
 
-###`Desenvolvedor de Software`e automação.
+###Desenvolvedor de Software`e automação.
 
 Sou Desenvolvedor de Software e Automações, fundamentado na **Ciência da Computação**. Crio soluções tecnológicas de ponta a ponta que resolvem problemas reais de negócios. 
 Tenho experiência na criação de interfaces dinâmicas e funcionais para a **Web** e no desenvolvimento de sistemas e aplicações utilizando o ecossistema **Java**. 
