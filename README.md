@@ -1,8 +1,14 @@
 # 👨🏻‍💻Ricardo Santos
 
-**`Desenvolvedor de Software`**
+###`Desenvolvedor de Software`e automação.
 
-Me chamo Ricardo Santos, tenho 34 anos e sou natural de São paulo Capital. Sou um desenvolvedor entusiasta em Ciências da Computação focado em construir soluções tecnológicas completas. Tenho experiência em criação de interfaces dinâmicas e funcionais para a Web (HTML5, CSS3, JS) e no desenvolvimento de aplicações nativas para dispositivos móveis usando Java e Kotlin. Minhas habilidades de programação se estendem à lógica de sistemas (Linguagem C). O que me move é a capacidade de transformar requisitos em código limpo e eficiente. Todos os meus projetos são gerenciados com Git/GitHub, garantindo um fluxo de trabalho profissional e rastreável..
+Sou Desenvolvedor de Software e Automações, fundamentado na **Ciência da Computação**. Crio soluções tecnológicas de ponta a ponta que resolvem problemas reais de negócios. 
+Tenho experiência na criação de interfaces dinâmicas e funcionais para a **Web** e no desenvolvimento de sistemas e aplicações utilizando o ecossistema **Java**. 
+tenho vivência com infraestrutura, realizando o **deploy** de aplicações em servidores VPS utilizando **Docker**.
+Para garantir a máxima eficiência, gerencio meus projetos com a metodologia **Kanban**, o que me permite visualizar todo o processo e otimizar meu tempo. 
+Atualmente, exploro o mundo das automações, criando fluxos complexos com **n8n** em VPS para integração de multiplos sistemas. 
+Todo o meu fluxo de trabalho é versionado com **Git/GitHub**, garantindo um histórico profissional e rastreável. 
+Possuo **inglês básico** e sigo em constante aperfeiçoamento para me comunicar com times globais.
 
 
 ---
