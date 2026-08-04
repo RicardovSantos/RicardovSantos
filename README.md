@@ -27,13 +27,13 @@
 
 ## `01` &nbsp;QUEM SOU
 
-Sou o Ricardo. Curso Ciência da Computação e trabalho com desenvolvimento de software e automação.
+Sou o Ricardo. Curso **Ciência da Computação** e trabalho com desenvolvimento de software e automação.
 
 O que me separa de outro júnior cabe numa linha: **o que eu construo está no ar, com cliente usando e pagando.**
 
-Aprendi deploy derrubando produção às 23h e tendo que subir de volta. Aprendi modelagem fazendo o banco de um CRM que não pode perder lead de ninguém. Requisito eu aprendi sentado na frente de dono de estúdio, traduzindo "quero aparecer no Google" em escopo, prazo e código.
+Aprendi **deploy** derrubando produção às 23h e tendo que subir de volta. Aprendi **modelagem** fazendo o banco de um CRM que não pode perder lead de ninguém. **Requisito** eu aprendi sentado na frente de dono de estúdio, traduzindo *"quero aparecer no Google"* em escopo, prazo e código.
 
-Nenhum desses projetos foi exercício de faculdade. Sempre teve alguém do outro lado esperando.
+Nenhum desses projetos foi exercício de faculdade. **Sempre teve alguém do outro lado esperando.**
 
 <table width="100%">
 <tr>
@@ -64,7 +64,7 @@ Kanban pra priorizar. Git em tudo, com histórico que dá pra auditar.
 </tr>
 </table>
 
-> Estou atrás da primeira oportunidade formal como engenheiro de software júnior. Quero um time onde eu aprenda com gente mais experiente sem perder a autonomia que já exerço hoje.
+> Estou atrás da **primeira oportunidade formal como engenheiro de software júnior**. Quero um time onde eu aprenda com gente mais experiente sem perder a autonomia que já exerço hoje.
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:07080D,50:6117C4,100:07080D&height=3&animation=twinkling" width="100%" alt="" /></div>
 
@@ -85,13 +85,13 @@ Kanban pra priorizar. Git em tudo, com histórico que dá pra auditar.
 
 </div>
 
-A ideia veio de uma cena que eu via repetir toda semana na rua onde moro. Estúdio que é referência no bairro há dez anos e não aparece na busca do Google. Profissional excelente que ainda manda print de portfólio por WhatsApp, porque nunca teve uma página sua.
+A ideia veio de uma cena que eu via repetir toda semana na rua onde moro. Estúdio que é referência no bairro há dez anos e **não aparece na busca do Google**. Profissional excelente que ainda manda print de portfólio por WhatsApp, porque nunca teve uma página sua.
 
-Gente boa perdendo cliente por não existir onde o cliente procura.
+**Gente boa perdendo cliente por não existir onde o cliente procura.**
 
 Montei a **Eneven Tech** pra fechar essa distância. Site, sistema e automação para negócio que nunca teve a chance de ter.
 
-O que veio junto foi o que curso nenhum me daria. Prazo que não escorrega. Bug em produção com cliente cobrando no WhatsApp. Gente que não fala "endpoint", fala "não tá abrindo no celular". Passei a versionar direito, testar antes de subir e documentar, porque o custo de não fazer eu já tinha pago.
+O que veio junto foi o que curso nenhum me daria. Prazo que não escorrega. Bug em produção com cliente cobrando no WhatsApp. Gente que não fala *"endpoint"*, fala *"não tá abrindo no celular"*. Passei a **versionar direito, testar antes de subir e documentar**, porque o custo de não fazer eu já tinha pago.
 
 <div align="center">
 
@@ -123,17 +123,17 @@ O que veio junto foi o que curso nenhum me daria. Prazo que não escorrega. Bug 
 
 <br/>
 
-Trabalhando sozinho, precisei ocupar cadeiras que num time são de várias pessoas. É de lá que vem a maior parte do que eu sei fazer hoje:
+Trabalhando sozinho, **precisei ocupar cadeiras que num time são de várias pessoas.** É de lá que vem a maior parte do que eu sei fazer hoje:
 
 | Cadeira que ocupei | O que virou competência técnica |
 | :--- | :--- |
-| Levantamento de requisitos | Traduzir dor de negócio em escopo, critério de aceite e prazo que se cumpre |
-| Front-end e back-end | Modelar os dados, escrever a regra e montar a interface responsiva |
-| Infraestrutura | Docker em VPS Linux, domínio, SSL, subdomínio por produto, rollback |
-| Integração | Fluxos n8n ligando WhatsApp, e-mail, planilha e API de terceiro |
-| Suporte | Depurar em produção com cliente esperando, e documentar pra não repetir |
+| **Levantamento de requisitos** | Traduzir dor de negócio em escopo, critério de aceite e *prazo que se cumpre* |
+| **Front-end e back-end** | Modelar os dados, escrever a regra e montar a interface responsiva |
+| **Infraestrutura** | `Docker` em VPS Linux, domínio, SSL, subdomínio por produto, rollback |
+| **Integração** | Fluxos `n8n` ligando WhatsApp, e-mail, planilha e API de terceiro |
+| **Suporte** | Depurar em produção *com cliente esperando*, e documentar pra não repetir |
 
-> A Eneven não é plano B pra vaga nenhuma. Trabalhar sozinho tem teto e eu já bati nele. Quero entrar num time bom pra aprender em um ano o que sozinho levaria cinco.
+> **A Eneven não é plano B pra vaga nenhuma.** Trabalhar sozinho tem teto e eu já bati nele. Quero entrar num time bom pra aprender em um ano o que sozinho levaria cinco.
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:07080D,50:6117C4,100:07080D&height=3&animation=twinkling" width="100%" alt="" /></div>
 
@@ -146,17 +146,17 @@ Trabalhando sozinho, precisei ocupar cadeiras que num time são de várias pesso
 ### Produtos SaaS de autoria própria
 
 - <a href="https://hub.eneven.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/hub-dark.webp" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/hub-light.webp" /><img src="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/hub-light.webp" height="44" alt="Eneven Hub" /></picture></a> &nbsp; <a href="https://hub.eneven.com.br"><img src="https://img.shields.io/badge/hub.eneven.com.br-00E5A0?style=flat-square&logo=googlechrome&logoColor=07080D&labelColor=07080D" alt="Acessar" /></a><br/>
-  A plataforma de gestão que roda a minha operação. Cliente, funil comercial, projeto em andamento, contrato, receita recorrente e biblioteca de prompts de IA, tudo num painel só.<br/>
+  A plataforma de gestão que **roda a minha operação**. Cliente, funil comercial, projeto em andamento, contrato, receita recorrente e biblioteca de prompts de IA, *tudo num painel só*.<br/>
   `Dashboard multi-módulo` &nbsp;·&nbsp; `Receita recorrente` &nbsp;·&nbsp; `Gestão de contratos` &nbsp;·&nbsp; `Controle de pipeline`
 
 - <a href="https://prospect.eneven.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/prospect-dark.webp" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/prospect-light.webp" /><img src="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/prospect-light.webp" height="44" alt="Eneven Prospect" /></picture></a> &nbsp; <a href="https://prospect.eneven.com.br"><img src="https://img.shields.io/badge/prospect.eneven.com.br-00E5A0?style=flat-square&logo=googlechrome&logoColor=07080D&labelColor=07080D" alt="Acessar" /></a><br/>
-  CRM de prospecção com assinante pagando. Busca negócios por nicho e região, organiza o funil com histórico de contato, monta mensagem com variação automática, gera contrato em PDF e integra com WhatsApp e e-mail.<br/>
+  CRM de prospecção **com assinante pagando**. Busca negócios por nicho e região, organiza o funil com histórico de contato, monta mensagem com variação automática, gera contrato em PDF e integra com WhatsApp e e-mail.<br/>
   `Multi-tenant` &nbsp;·&nbsp; `Trial e assinatura` &nbsp;·&nbsp; `Geração de PDF` &nbsp;·&nbsp; `WhatsApp API` &nbsp;·&nbsp; `Mobile-friendly`
 
 ### Plataforma e institucional
 
 - **[Eneven Tech](https://eneven.com.br)** &nbsp;<a href="https://eneven.com.br"><img src="https://img.shields.io/badge/eneven.com.br-6117C4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=07080D" alt="Acessar" /></a><br/>
-  Site da empresa e motor de captação. Vitrine de serviços com SEO, diagnóstico gratuito, prova social e funil próprio de lead.<br/>
+  Site da empresa e **motor de captação**. Vitrine de serviços com SEO, diagnóstico gratuito, prova social e funil próprio de lead.<br/>
   `SEO técnico` &nbsp;·&nbsp; `LGPD e cookies` &nbsp;·&nbsp; `Otimizado pra conversão` &nbsp;·&nbsp; `Mobile-first`
 
 - **[Portfólio com assistente de IA](https://portifolio.ricardosantosdev.tech)** &nbsp;<a href="https://portifolio.ricardosantosdev.tech"><img src="https://img.shields.io/badge/portifolio.ricardosantosdev.tech-6117C4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=07080D" alt="Acessar" /></a><br/>
@@ -166,11 +166,11 @@ Trabalhando sozinho, precisei ocupar cadeiras que num time são de várias pesso
 ### Landing pages para cliente real
 
 - **[Studio Harrod's](https://studioharrodsestetica.com.br)** &nbsp;<a href="https://studioharrodsestetica.com.br"><img src="https://img.shields.io/badge/studioharrodsestetica.com.br-A78BFA?style=flat-square&logo=googlechrome&logoColor=07080D&labelColor=07080D" alt="Acessar" /></a><br/>
-  Estúdio de beleza com oito especialidades. Galeria de trabalhos, depoimento do Google, mapa, horário e agendamento direto pelo WhatsApp.<br/>
+  **Cliente real, no ar e vendendo.** Estúdio de beleza com oito especialidades: galeria de trabalhos, depoimento do Google, mapa, horário e agendamento direto pelo WhatsApp.<br/>
   `HTML` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `SEO local`
 
 - **[Defendi Studio](https://studio.defendipiercing.com.br)** &nbsp;<a href="https://studio.defendipiercing.com.br"><img src="https://img.shields.io/badge/studio.defendipiercing.com.br-A78BFA?style=flat-square&logo=googlechrome&logoColor=07080D&labelColor=07080D" alt="Acessar" /></a><br/>
-  Estúdio de piercing e joia premium. Tem catálogo interativo de cores de anodização, galeria antes e depois, seção de cursos e agendamento pelo WhatsApp.<br/>
+  **Cliente real, no ar e vendendo.** Estúdio de piercing e joia premium, com *catálogo interativo* de cores de anodização, galeria antes e depois, seção de cursos e agendamento pelo WhatsApp.<br/>
   `HTML` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `UI interativa` &nbsp;·&nbsp; `Galeria dinâmica`
 
 ### Backend, dados e formação
@@ -260,20 +260,20 @@ Trabalhando sozinho, precisei ocupar cadeiras que num time são de várias pesso
 <tr>
 <td width="50%" valign="top">
 
-Priorizo no Kanban, porque assim eu enxergo o processo inteiro e não perco prazo de vista.
+Priorizo no **Kanban**, porque assim eu enxergo o processo inteiro e não perco prazo de vista.
 
-Versiono tudo no Git, com commit que dá pra ler depois.
+Versiono tudo no **Git**, com *commit que dá pra ler depois*.
 
-Faço o deploy em VPS com Docker, do container ao domínio com SSL.
+Faço o **deploy** em VPS com Docker, do container ao domínio com SSL.
 
 </td>
 <td width="50%" valign="top">
 
-Converso bem com quem não é técnico. Boa parte do meu trabalho foi explicar decisão de software pra quem nunca abriu um terminal.
+**Converso bem com quem não é técnico.** Boa parte do meu trabalho foi explicar decisão de software pra quem nunca abriu um terminal.
 
-Sou organizado e proativo, e insisto num bug até achar a causa raiz.
+Sou organizado e proativo, e insisto num bug *até achar a causa raiz*.
 
-Inglês básico, melhorando. Leio documentação sem problema.
+**Inglês básico**, melhorando. Leio documentação sem problema.
 
 </td>
 </tr>
@@ -287,7 +287,7 @@ Inglês básico, melhorando. Leio documentação sem problema.
 
 ### Se você procura um júnior que já entrega em produção, me chama.
 
-<p>Respondo rápido no WhatsApp e no e-mail. O currículo em PDF está no portfólio.</p>
+<p>Respondo rápido no WhatsApp e no e-mail. O <strong>currículo em PDF</strong> está no portfólio.</p>
 
 <a href="https://wa.me/5511988240918"><img src="https://img.shields.io/badge/FALAR%20NO%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=07080D" alt="WhatsApp" /></a>
 <a href="mailto:ricardovieirads@outlook.com"><img src="https://img.shields.io/badge/ricardovieirads%40outlook.com-6117C4?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=07080D" alt="E-mail" /></a>
@@ -301,6 +301,6 @@ Inglês básico, melhorando. Leio documentação sem problema.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:07080D,35:6117C4,60:2A0A4F,100:07080D&section=footer&text=%22Se%20est%C3%A1%20no%20ar%20e%20o%20cliente%20usa%2C%20ent%C3%A3o%20est%C3%A1%20pronto.%22&fontSize=19&fontColor=C9D1D9&fontAlignY=58&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:07080D,35:6117C4,60:2A0A4F,100:07080D&section=footer&text=%22Prefiro%20uma%20coisa%20simples%20no%20ar%20do%20que%20uma%20obra-prima%20no%20meu%20computador.%22&fontSize=18&fontColor=C9D1D9&fontAlignY=58&animation=fadeIn" width="100%" alt="" />
 
 </div>
