@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:07080D,40:2A0A4F,65:6117C4,100:07080D&text=RICARDO%20SANTOS&fontSize=54&fontColor=FFFFFF&fontAlignY=44&desc=Engenheiro%20de%20Software%20J%C3%BAnior%20%C2%B7%20Front-end%20%2B%20Back-end%20%C2%B7%20Automa%C3%A7%C3%A3o%20com%20IA&descAlignY=66&descSize=15&animation=fadeIn" alt="Ricardo Santos, Engenheiro de Software Júnior" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:07080D,40:2A0A4F,65:6117C4,100:07080D&text=RICARDO%20SANTOS&fontSize=54&fontColor=FFFFFF&fontAlignY=44&desc=Desenvolvedor%20Web%20J%C3%BAnior%20%C2%B7%20Front-end%20%2B%20Back-end%20%C2%B7%20Automa%C3%A7%C3%A3o%20com%20IA&descAlignY=66&descSize=15&animation=fadeIn" alt="Ricardo Santos, Desenvolvedor Web Júnior" width="100%" />
 
 <a href="https://portifolio.ricardosantosdev.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=00E5A0&center=true&vCenter=true&width=760&height=46&lines=Sistemas+em+produ%C3%A7%C3%A3o%2C+com+cliente+usando+todo+dia.;Front-end+%C2%B7+Back-end+%C2%B7+Infra+%C2%B7+Automa%C3%A7%C3%A3o;Fundador+da+Eneven+Tech;Aberto+a+vagas%3A+Engenheiro+de+Software+J%C3%BAnior" alt="Desenvolvedor de Software e Automações" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=00E5A0&center=true&vCenter=true&width=760&height=46&lines=Sistemas+em+produ%C3%A7%C3%A3o+na+minha+VPS%2C+usados+na+Eneven+Tech.;Front-end+%C2%B7+Back-end+%C2%B7+Infra+%C2%B7+Automa%C3%A7%C3%A3o;Fundador+da+Eneven+Tech;Aberto+a+vagas%3A+Desenvolvedor+Web+J%C3%BAnior" alt="Desenvolvedor de Software e Automações" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20DISPON%C3%8DVEL-Est%C3%A1gio%20%7C%20J%C3%BAnior%20%7C%20Trainee-00E5A0?style=flat-square&labelColor=07080D&color=0D1117" alt="Disponível" />
 <img src="https://img.shields.io/badge/%F0%9F%93%8D-S%C3%A3o%20Paulo%20%C2%B7%20SP%20%7C%20Presencial%2C%20H%C3%ADbrido%20ou%20Remoto-A78BFA?style=flat-square&labelColor=07080D&color=0D1117" alt="Localização" />
-<img src="https://img.shields.io/badge/%F0%9F%8E%93-Cursando%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-A78BFA?style=flat-square&labelColor=07080D&color=0D1117" alt="Cursando Ciência da Computação" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%93-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20UNICID-A78BFA?style=flat-square&labelColor=07080D&color=0D1117" alt="Cursando Ciência da Computação na UNICID" />
 <img src="https://komarev.com/ghpvc/?username=RicardovSantos&style=flat-square&color=6117C4&label=VISITAS" alt="Visitas no perfil" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07080D,50:6117C4,100:07080D&height=3&animation=twinkling" width="100%" alt="" />
@@ -27,13 +27,13 @@
 
 ## `01` &nbsp;QUEM SOU
 
-Sou o Ricardo. Curso **Ciência da Computação** e trabalho com desenvolvimento de software e automação.
+Sou o Ricardo. Curso **Ciência da Computação** na **UNICID** e trabalho com desenvolvimento de software e automação.
 
-O que me separa de outro júnior cabe numa linha: **o que eu construo está no ar, com cliente usando e pagando.**
+**Os sistemas que construo rodam em produção na minha VPS e são usados no dia a dia da Eneven Tech.**
 
-Aprendi **deploy** derrubando produção às 23h e tendo que subir de volta. Aprendi **modelagem** fazendo o banco de um CRM que não pode perder lead de ninguém. **Requisito** eu aprendi sentado na frente de dono de estúdio, traduzindo *"quero aparecer no Google"* em escopo, prazo e código.
+Aprendi **deploy** publicando e mantendo os meus próprios sistemas. Aprendi **modelagem** fazendo o banco de um CRM que não pode perder lead de ninguém. **Requisito** eu aprendi sentado na frente de dono de estúdio, traduzindo *"quero aparecer no Google"* em escopo, prazo e código.
 
-Nenhum desses projetos foi exercício de faculdade. **Sempre teve alguém do outro lado esperando.**
+Além da faculdade, **construo projetos para problemas reais do meu próprio negócio.**
 
 <table width="100%">
 <tr>
@@ -64,7 +64,7 @@ Kanban pra priorizar. Git em tudo, com histórico que dá pra auditar.
 </tr>
 </table>
 
-> Estou atrás da **primeira oportunidade formal como engenheiro de software júnior**. Quero um time onde eu aprenda com gente mais experiente sem perder a autonomia que já exerço hoje.
+> Estou atrás da **primeira oportunidade formal como desenvolvedor web júnior**. Quero um time onde eu aprenda com gente mais experiente sem perder a autonomia que já exerço hoje.
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:07080D,50:6117C4,100:07080D&height=3&animation=twinkling" width="100%" alt="" /></div>
 
@@ -80,8 +80,8 @@ Kanban pra priorizar. Git em tudo, com histórico que dá pra auditar.
   </picture>
 </a>
 
-### **Dois SaaS no ar. Landing page de cliente vendendo.**
-### **Nenhum projeto de faculdade.**
+### **Sistemas próprios em produção.**
+### **Sites entregues para clientes.**
 
 </div>
 
@@ -95,29 +95,19 @@ O que veio junto foi o que curso nenhum me daria. Prazo que não escorrega. Bug 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/50%2B-CLIENTES%20ATENDIDOS-6117C4?style=for-the-badge&labelColor=07080D" alt="50+ clientes atendidos" />
-<img src="https://img.shields.io/badge/4.9%20%E2%98%85-AVALIA%C3%87%C3%83O%20M%C3%89DIA-00E5A0?style=for-the-badge&labelColor=07080D" alt="4.9 estrelas de avaliação média" />
-<img src="https://img.shields.io/badge/2%20SaaS-EM%20PRODU%C3%87%C3%83O-A78BFA?style=for-the-badge&labelColor=07080D" alt="2 SaaS em produção" />
-
-<br/><br/>
-
-<a href="https://hub.eneven.com.br">
+<a href="https://portifolio.ricardosantosdev.tech/projetos/eneven-hub.html">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/hub-dark.webp" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/hub-light.webp" />
     <img src="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/hub-light.webp" height="72" alt="Eneven Hub" />
   </picture>
 </a>
-&nbsp;&nbsp;
-<a href="https://prospect.eneven.com.br">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/prospect-dark.webp" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/prospect-light.webp" />
-    <img src="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/prospect-light.webp" height="72" alt="Eneven Prospect" />
-  </picture>
-</a>
 
-<sub><em>Os dois produtos que eu projetei, construí e mantenho no ar.</em></sub>
+<img src="https://img.shields.io/badge/19%20MCPs-PR%C3%93PRIOS-6117C4?style=for-the-badge&labelColor=07080D" alt="19 MCPs próprios" />
+<img src="https://img.shields.io/badge/VPS%20LINUX-DOCKER-00E5A0?style=for-the-badge&labelColor=07080D" alt="VPS Linux com Docker" />
+<img src="https://img.shields.io/badge/AUTOMA%C3%87%C3%95ES-n8n-A78BFA?style=for-the-badge&labelColor=07080D" alt="Automações em n8n" />
+
+<sub><em>O Eneven Hub é o sistema que eu projetei, construí e uso para tocar a operação da Eneven Tech.</em></sub>
 
 </div>
 
@@ -137,72 +127,59 @@ Trabalhando sozinho, **precisei ocupar cadeiras que num time são de várias pes
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:07080D,50:6117C4,100:07080D&height=3&animation=twinkling" width="100%" alt="" /></div>
 
-## `03` &nbsp;PROJETOS EM PRODUÇÃO
+## `03` &nbsp;PROJETOS EM DESTAQUE
 
-<div align="center"><em>Todos os links abaixo estão no ar agora. Clique e teste.</em></div>
+<div align="center"><em>Os projetos privados têm página própria no portfólio. Os públicos abrem o código no GitHub.</em></div>
 
 <br/>
 
-### Produtos SaaS de autoria própria
+### Sistemas e automações
 
-- <a href="https://hub.eneven.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/hub-dark.webp" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/hub-light.webp" /><img src="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/hub-light.webp" height="44" alt="Eneven Hub" /></picture></a> &nbsp; <a href="https://hub.eneven.com.br"><img src="https://img.shields.io/badge/hub.eneven.com.br-00E5A0?style=flat-square&logo=googlechrome&logoColor=07080D&labelColor=07080D" alt="Acessar" /></a><br/>
-  A plataforma de gestão que **roda a minha operação**. Cliente, funil comercial, projeto em andamento, contrato, receita recorrente e biblioteca de prompts de IA, *tudo num painel só*.<br/>
-  `Dashboard multi-módulo` &nbsp;·&nbsp; `Receita recorrente` &nbsp;·&nbsp; `Gestão de contratos` &nbsp;·&nbsp; `Controle de pipeline`
+- **[Eneven Hub](https://portifolio.ricardosantosdev.tech/projetos/eneven-hub.html)** &nbsp;<img src="https://img.shields.io/badge/c%C3%B3digo-privado-30363D?style=flat-square&labelColor=07080D" alt="código privado" /><br/>
+  Sistema interno da Eneven Tech: prospecção, contratos, cobrança, projetos e hospedagem.<br/>
+  `Node.js` &nbsp;·&nbsp; `Express` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Mercado Pago` &nbsp;·&nbsp; `Docker`
 
-- <a href="https://prospect.eneven.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/prospect-dark.webp" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/prospect-light.webp" /><img src="https://raw.githubusercontent.com/RicardovSantos/RicardovSantos/main/assets/brand/prospect-light.webp" height="44" alt="Eneven Prospect" /></picture></a> &nbsp; <a href="https://prospect.eneven.com.br"><img src="https://img.shields.io/badge/prospect.eneven.com.br-00E5A0?style=flat-square&logo=googlechrome&logoColor=07080D&labelColor=07080D" alt="Acessar" /></a><br/>
-  CRM de prospecção **com assinante pagando**. Busca negócios por nicho e região, organiza o funil com histórico de contato, monta mensagem com variação automática, gera contrato em PDF e integra com WhatsApp e e-mail.<br/>
-  `Multi-tenant` &nbsp;·&nbsp; `Trial e assinatura` &nbsp;·&nbsp; `Geração de PDF` &nbsp;·&nbsp; `WhatsApp API` &nbsp;·&nbsp; `Mobile-friendly`
+- **[WinBot MT5](https://portifolio.ricardosantosdev.tech/projetos/winbot.html)** &nbsp;<img src="https://img.shields.io/badge/c%C3%B3digo-privado-30363D?style=flat-square&labelColor=07080D" alt="código privado" /><br/>
+  Robô de estudo para mini-índice no MetaTrader 5, com estratégias em módulos, travas de risco, backtest e painel web local.<br/>
+  `Python` &nbsp;·&nbsp; `unittest`
 
-### Plataforma e institucional
+- **[19 MCPs próprios](https://portifolio.ricardosantosdev.tech/projetos/mcps.html)** &nbsp;<img src="https://img.shields.io/badge/c%C3%B3digo-privado-30363D?style=flat-square&labelColor=07080D" alt="código privado" /><br/>
+  Servidores que ligam o Claude ao WhatsApp, ao Eneven Hub, ao Meta, ao Mercado Pago, ao Cloudflare, ao GitHub e a outros serviços. A escrita só acontece depois de prévia e confirmação.<br/>
+  `Python` &nbsp;·&nbsp; `MCP SDK` &nbsp;·&nbsp; `Docker`
 
-- **[Eneven Tech](https://eneven.com.br)** &nbsp;<a href="https://eneven.com.br"><img src="https://img.shields.io/badge/eneven.com.br-6117C4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=07080D" alt="Acessar" /></a><br/>
-  Site da empresa e **motor de captação**. Vitrine de serviços com SEO, diagnóstico gratuito, prova social e funil próprio de lead.<br/>
-  `SEO técnico` &nbsp;·&nbsp; `LGPD e cookies` &nbsp;·&nbsp; `Otimizado pra conversão` &nbsp;·&nbsp; `Mobile-first`
+- **Automações n8n** &nbsp;<a href="https://portifolio.ricardosantosdev.tech/projetos/n8n-prospeccao.html"><img src="https://img.shields.io/badge/prospec%C3%A7%C3%A3o-ver%20p%C3%A1gina-6117C4?style=flat-square&labelColor=07080D" alt="Página da automação de prospecção" /></a> <a href="https://portifolio.ricardosantosdev.tech/projetos/n8n-social.html"><img src="https://img.shields.io/badge/posts%20sociais-ver%20p%C3%A1gina-6117C4?style=flat-square&labelColor=07080D" alt="Página da automação de posts" /></a><br/>
+  Prospecção no WhatsApp com PostgreSQL e Evolution API. Posts, stories e carrossel publicados sozinhos com Claude, GPT Image e Meta Graph API.<br/>
+  `n8n` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Evolution API` &nbsp;·&nbsp; `Meta Graph API`
 
-- **[Portfólio com assistente de IA](https://portifolio.ricardosantosdev.tech)** &nbsp;<a href="https://portifolio.ricardosantosdev.tech"><img src="https://img.shields.io/badge/portifolio.ricardosantosdev.tech-6117C4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=07080D" alt="Acessar" /></a><br/>
-  Meu portfólio com o **Bryan**, um assistente que responde perguntas sobre minha stack e experiência. O fluxo conversacional roda em **n8n** numa VPS minha.<br/>
-  `n8n` &nbsp;·&nbsp; `IA conversacional` &nbsp;·&nbsp; `Webhook` &nbsp;·&nbsp; `Deploy em VPS`
+Os sistemas que construo rodam em produção na minha VPS e são usados no dia a dia da Eneven Tech.
 
-### Landing pages para cliente real
+### Projetos públicos
 
-- **[Studio Harrod's](https://studioharrodsestetica.com.br)** &nbsp;<a href="https://studioharrodsestetica.com.br"><img src="https://img.shields.io/badge/studioharrodsestetica.com.br-A78BFA?style=flat-square&logo=googlechrome&logoColor=07080D&labelColor=07080D" alt="Acessar" /></a><br/>
-  **Cliente real, no ar e vendendo.** Estúdio de beleza com oito especialidades: galeria de trabalhos, depoimento do Google, mapa, horário e agendamento direto pelo WhatsApp.<br/>
-  `HTML` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `SEO local`
+- **[Mercadin-list](https://github.com/RicardovSantos/Mercadin-list)**<br/>
+  Controle de compras de mercado em um arquivo HTML, com histórico, dashboard e dados salvos no navegador.<br/>
+  `HTML` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `IndexedDB`
 
-- **[Defendi Studio](https://studio.defendipiercing.com.br)** &nbsp;<a href="https://studio.defendipiercing.com.br"><img src="https://img.shields.io/badge/studio.defendipiercing.com.br-A78BFA?style=flat-square&logo=googlechrome&logoColor=07080D&labelColor=07080D" alt="Acessar" /></a><br/>
-  **Cliente real, no ar e vendendo.** Estúdio de piercing e joia premium, com *catálogo interativo* de cores de anodização, galeria antes e depois, seção de cursos e agendamento pelo WhatsApp.<br/>
-  `HTML` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `UI interativa` &nbsp;·&nbsp; `Galeria dinâmica`
+- **[Wireframe-escopo-criador](https://github.com/RicardovSantos/Wireframe-escopo-criador)**<br/>
+  Editor de wireframes de escopo no navegador, com modelos prontos e exportação em PNG, SVG e base64.<br/>
+  `HTML` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `SVG`
 
-### Backend, dados e formação
+- **[Raspador-Google-Places](https://github.com/RicardovSantos/Raspador-Google-Places)**<br/>
+  Busca negócios na Places API do Google e exporta CSV ou JSON, em página HTML e script Python.<br/>
+  `Python` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `Google Places API`
 
-- **Sistema de Recuperação de Crédito** &nbsp;<img src="https://img.shields.io/badge/em%20desenvolvimento-30363D?style=flat-square&labelColor=07080D" alt="em desenvolvimento" /><br/>
-  Plataforma de cobrança e recuperação de crédito, com regra de negociação e trilha de contato.<br/>
-  `Java` &nbsp;·&nbsp; `Spring Boot` &nbsp;·&nbsp; `HTML/CSS/JS`
+- **[study-eneven](https://github.com/RicardovSantos/study-eneven)**<br/>
+  DevLog, plataforma familiar de estudos com metas, pontos e recompensas. Front-end em Vite e API em FastAPI.<br/>
+  `JavaScript` &nbsp;·&nbsp; `Vite` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `PostgreSQL`
 
-- **Eletro Santos**<br/>
-  Modelagem completa e DER de um e-commerce. Normalização, relacionamento e integridade referencial.<br/>
-  `MySQL` &nbsp;·&nbsp; `Modelagem` &nbsp;·&nbsp; `DER`
+- **[Eletro-Santos-DB](https://github.com/RicardovSantos/Eletro-Santos-DB)**<br/>
+  Modelagem e scripts SQL de um e-commerce de eletroeletrônicos, com 15 tabelas em MySQL.<br/>
+  `MySQL` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `Modelagem de dados`
 
-- **Patinhas Carentes**<br/>
-  Site institucional voluntário pra uma ONG de resgate e adoção de animais.<br/>
-  `HTML` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `JavaScript`
+### Sites e institucional
 
-- **EnevenBio Premium**<br/>
-  Página link-in-bio white-label. Alternativa ao Linktree, com domínio e identidade do próprio cliente.<br/>
-  `HTML` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `JavaScript`
-
-<!--
-  ┌───────────────────────────────────────────────────────────────────────────┐
-  │  COMO ADICIONAR UM NOVO PROJETO                                           │
-  │  Copie um item de lista da categoria certa e troque:                      │
-  │    1. o nome e o link do título                                           │
-  │    2. a badge ACESSAR (troque o texto e o href pela URL, sem https://)    │
-  │    3. a descrição: 1 ou 2 frases sobre o que é e o que tem de técnico     │
-  │    4. a linha de chips de stack no final                                  │
-  │  Cores por categoria: SaaS 00E5A0 · Institucional 6117C4 · Cliente A78BFA │
-  │  Logos ficam em assets/brand/ em WebP (par -light.webp e -dark.webp).     │
-  └───────────────────────────────────────────────────────────────────────────┘
--->
+- **[Eneven Tech](https://eneven.com.br)**: site da empresa, com serviços, diagnóstico gratuito e SEO técnico.
+- **[Portfólio com assistente de IA](https://portifolio.ricardosantosdev.tech)**: meu portfólio, com o Bryan, um assistente que responde sobre minha stack e experiência. O fluxo roda em n8n numa VPS minha.
+- **[Studio Harrod's](https://studioharrodsestetica.com.br)** e **[Defendi Studio](https://studio.defendipiercing.com.br)**: sites entregues para clientes, em HTML, CSS e JavaScript.
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:07080D,50:6117C4,100:07080D&height=3&animation=twinkling" width="100%" alt="" /></div>
 
@@ -211,7 +188,11 @@ Trabalhando sozinho, **precisei ocupar cadeiras que num time são de várias pes
 <table width="100%">
 <tr>
 <td width="24%" align="right" valign="middle"><strong>Backend</strong></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=java,spring,kotlin,c&theme=dark" alt="Java, Spring Boot, Kotlin, C" /></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,py&theme=dark" alt="Node.js, Express, Python" /></td>
+</tr>
+<tr>
+<td align="right" valign="middle"><strong>Estudando na faculdade</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></td>
 </tr>
 <tr>
 <td align="right" valign="middle"><strong>Frontend</strong></td>
@@ -285,7 +266,7 @@ Sou organizado e proativo, e insisto num bug *até achar a causa raiz*.
 
 <div align="center">
 
-### Se você procura um júnior que já entrega em produção, me chama.
+### Se você procura um desenvolvedor web júnior, me chama.
 
 <p>Respondo rápido no WhatsApp e no e-mail. O <strong>currículo em PDF</strong> está no portfólio.</p>
 
