@@ -135,6 +135,10 @@ Trabalhando sozinho, **precisei ocupar cadeiras que num time são de várias pes
 
 ### Sistemas e automações
 
+- **[Eneven Agenda](https://portifolio.ricardosantosdev.tech/projetos/eneven-agenda.html)** &nbsp;<img src="https://img.shields.io/badge/NOVO-00E5A0?style=flat-square&labelColor=07080D" alt="novo" /> &nbsp;<a href="https://github.com/RicardovSantos/eneven-agenda-inteligente"><img src="https://img.shields.io/badge/c%C3%B3digo-p%C3%BAblico-6117C4?style=flat-square&labelColor=07080D" alt="código público" /></a><br/>
+  SaaS de agendamento online para salões, estética e barbearias. A cliente marca sozinha pelo link do negócio e recebe lembrete automático no WhatsApp pela API oficial da Meta. No ar em [agenda.eneven.com.br](https://agenda.eneven.com.br).<br/>
+  `Next.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Drizzle` &nbsp;·&nbsp; `Mercado Pago` &nbsp;·&nbsp; `Docker`
+
 - **[Eneven Hub](https://portifolio.ricardosantosdev.tech/projetos/eneven-hub.html)** &nbsp;<img src="https://img.shields.io/badge/c%C3%B3digo-privado-30363D?style=flat-square&labelColor=07080D" alt="código privado" /><br/>
   Sistema interno da Eneven Tech: prospecção, contratos, cobrança, projetos e hospedagem.<br/>
   `Node.js` &nbsp;·&nbsp; `Express` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Mercado Pago` &nbsp;·&nbsp; `Docker`
